@@ -19,6 +19,7 @@ print(f"Máy: {ma_may}")
 print(f"Công suất: {cong_suat_w:.2f} W")
 print(f"Thời lượng: {so_phut} phút")
 print(f"Điện năng: {dien_nang_kwh:.3f} kWh")
-print(f"Chi phí: {chi_phi:.2f} VND")
+print(f"Chi phí: {chi_phi:.0f} VND")
 print(f"Trên 60 phút: {tren_60_phut}")
 print(f"Ghi nhận lúc: {ghi_nhan_luc}")
+# chinh sua dinh dang
